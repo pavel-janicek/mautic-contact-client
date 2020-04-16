@@ -1,5 +1,5 @@
 {
-    "name": "thedmsgroup/mautic-contact-client-bundle",
+    "name": "pavel-janicek/mautic-contact-client-bundle",
     "description": "Create custom integrations without writing code.",
     "keywords": ["mautic","marketing","marketing automation","plugin"],
     "type": "mautic-plugin",
@@ -9,7 +9,7 @@
         "namshi/cuzzle": "^2.0",
         "league/flysystem": "^1.0",
         "league/flysystem-aws-s3-v3": "^1.0",
-        "league/flysystem-dropbox": "^1.0",
+        "spatie/flysystem-dropbox ": "^1.2",
         "league/flysystem-sftp": "^1.0"
     },
     "license": "GPL-3.0-only",
